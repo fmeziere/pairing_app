@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Ludeko connexion peson",
+    "slug": "ludeko-connexion-peson",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "react-native-wifi-reborn"
+    ],
+    "android": {
+      "permissions": [
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "package": "org.ludeko"
+    }
+  },
+  "name": "Ludeko connexion peson"
+}
